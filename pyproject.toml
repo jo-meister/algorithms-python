@@ -1,0 +1,14 @@
+[project]
+name = "algorithms-python"
+version = "0.0.1"
+description = "algorithms-python"
+authors = [ { name = "jo-meister" } ]
+requires-python = ">=3.12"
+classifiers = [
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.12",
+]
+exclude_patterns = [
+    ".*/*",
+    "docs/",
+]
